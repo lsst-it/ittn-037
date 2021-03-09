@@ -13,7 +13,7 @@ serial_number: "037"
 doc_id: "ITTN-037"
 
 # Title of the document, without the series/serial designation
-doc_title: "IT Priorities Planning"
+doc_title: "IT Linux Repo"
 
 # Author names, ordered as a list. Each author name should be formatted as 'First Last'
 authors:
